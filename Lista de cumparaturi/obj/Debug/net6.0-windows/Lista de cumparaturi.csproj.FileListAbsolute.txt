@@ -1,0 +1,21 @@
+C:\Users\maria\source\repos\Lista de cumparaturi\Lista de cumparaturi\bin\Debug\net6.0-windows\Lista de cumparaturi.exe
+C:\Users\maria\source\repos\Lista de cumparaturi\Lista de cumparaturi\bin\Debug\net6.0-windows\Lista de cumparaturi.deps.json
+C:\Users\maria\source\repos\Lista de cumparaturi\Lista de cumparaturi\bin\Debug\net6.0-windows\Lista de cumparaturi.runtimeconfig.json
+C:\Users\maria\source\repos\Lista de cumparaturi\Lista de cumparaturi\bin\Debug\net6.0-windows\Lista de cumparaturi.dll
+C:\Users\maria\source\repos\Lista de cumparaturi\Lista de cumparaturi\bin\Debug\net6.0-windows\Lista de cumparaturi.pdb
+C:\Users\maria\source\repos\Lista de cumparaturi\Lista de cumparaturi\obj\Debug\net6.0-windows\Lista de cumparaturi.csproj.AssemblyReference.cache
+C:\Users\maria\source\repos\Lista de cumparaturi\Lista de cumparaturi\obj\Debug\net6.0-windows\Lista_de_cumparaturi.Form1.resources
+C:\Users\maria\source\repos\Lista de cumparaturi\Lista de cumparaturi\obj\Debug\net6.0-windows\Lista de cumparaturi.csproj.GenerateResource.cache
+C:\Users\maria\source\repos\Lista de cumparaturi\Lista de cumparaturi\obj\Debug\net6.0-windows\Lista de cumparaturi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\source\repos\Lista de cumparaturi\Lista de cumparaturi\obj\Debug\net6.0-windows\Lista de cumparaturi.AssemblyInfoInputs.cache
+C:\Users\maria\source\repos\Lista de cumparaturi\Lista de cumparaturi\obj\Debug\net6.0-windows\Lista de cumparaturi.AssemblyInfo.cs
+C:\Users\maria\source\repos\Lista de cumparaturi\Lista de cumparaturi\obj\Debug\net6.0-windows\Lista de cumparaturi.csproj.CoreCompileInputs.cache
+C:\Users\maria\source\repos\Lista de cumparaturi\Lista de cumparaturi\obj\Debug\net6.0-windows\Lista de cumparaturi.dll
+C:\Users\maria\source\repos\Lista de cumparaturi\Lista de cumparaturi\obj\Debug\net6.0-windows\refint\Lista de cumparaturi.dll
+C:\Users\maria\source\repos\Lista de cumparaturi\Lista de cumparaturi\obj\Debug\net6.0-windows\Lista de cumparaturi.pdb
+C:\Users\maria\source\repos\Lista de cumparaturi\Lista de cumparaturi\obj\Debug\net6.0-windows\Lista de cumparaturi.genruntimeconfig.cache
+C:\Users\maria\source\repos\Lista de cumparaturi\Lista de cumparaturi\obj\Debug\net6.0-windows\ref\Lista de cumparaturi.dll
+C:\Users\maria\source\repos\Lista de cumparaturi\Lista de cumparaturi\bin\Debug\net6.0-windows\Json.Net.dll
+C:\Users\maria\source\repos\Lista de cumparaturi\Lista de cumparaturi\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\maria\source\repos\Lista de cumparaturi\Lista de cumparaturi\bin\Debug\net6.0-windows\Newtonsoft.Json.Bson.dll
+C:\Users\maria\source\repos\Lista de cumparaturi\Lista de cumparaturi\obj\Debug\net6.0-windows\Lista de cumparaturi.csproj.CopyComplete

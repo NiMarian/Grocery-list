@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vs5M7BIzZLjg649YIJRwoeN3PUsHQkJh/3LLZ93Xmxaju17NhrNJeVeS2DNp3n/j4c1ceLfXQYp120h1aA2eng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maria\\source\\repos\\Lista de cumparaturi\\Lista de cumparaturi\\Lista de cumparaturi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maria\\.nuget\\packages\\json.net\\1.0.33\\json.net.1.0.33.nupkg.sha512",
+    "C:\\Users\\maria\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\maria\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

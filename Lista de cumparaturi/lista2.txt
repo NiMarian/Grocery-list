@@ -1,0 +1,3 @@
+Lapte: $3
+Mere: $3.5
+Miere: $5
